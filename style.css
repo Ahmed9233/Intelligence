@@ -1,0 +1,185 @@
+.Landingpage {
+  min-width: 1200px;
+}
+
+.FirstContainer {
+  background-color: rgb(255, 1, 1);
+  color: #fff;
+  width: 1500px;
+}
+
+.HomeDiv {
+  background-color: #161618;
+  height: 35px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.T {
+  position: relative;
+  left: 15px;
+  top: 10px;
+  position: fixed;
+  font-size: 130%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  left: 930px;
+  top: 90px;
+}
+
+.HeadFirst {
+  position: relative;
+  bottom: 120px;
+  left: 60px;
+  font-size: 270%;
+  font-weight: bold;
+}
+
+.TagLine {
+  position: relative;
+  bottom: 130px;
+  left: 10px;
+}
+
+.TagLine1 {
+  position: relative;
+  bottom: 140px;
+  left: 20px;
+}
+
+.Thread:hover {
+  background-color: yellow;
+  color: #000;
+}
+
+.Thread {
+  border: 5px solid black;
+  border-style: double;
+  border-radius: 6px;
+  border-color: gray;
+  position: relative;
+  left: 1215px;
+  bottom: 70px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: large;
+  font-style: normal;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.Thread:hover {
+  background-color: yellow;
+  color: #000;
+  text-shadow: 1px 1px 1px black;
+}
+
+.SecondContainer {
+  background-color: rgb(255, 1, 1);
+  color: #fff;
+  width: 1500px;
+}
+
+.Careers {
+  border: 5px solid black;
+  border-style: double;
+  border-radius: 6px;
+  border-color: gray;
+  position: relative;
+  top: -20px;
+  left: 1260px;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 130%;
+  padding: 1px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-align: center;
+}
+
+.Careers:hover {
+  background-color: yellow;
+  color: #000;
+  text-shadow: 1px 1px 1px black;
+}
+
+.Markhor {
+  position: relative;
+  left: 5px;
+}
+
+.Agency {
+  position: relative;
+  left: 16%;
+  top: -40px;
+  text-decoration: double;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+}
+
+.Paras {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  bottom: 160px;
+  font-size: larger;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 10px;
+}
+
+.ThirdContainer {
+  background-color: #161618;
+  position: relative;
+  bottom: 20px;
+  border-style: double;
+  width: 1495px;
+}
+
+.A {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: lighter;
+  font-style: oblique;
+}
+
+.B {
+  display: flex;
+  justify-content: center;
+  font-size: 110%;
+  font-weight: bold;
+  color: #fff;
+}
+
+.C {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: lighter;
+  font-style: oblique;
+}
+
+.D {
+  display: flex;
+  justify-content: center;
+  font-size: 110%;
+  font-weight: bold;
+  color: #fff;
+}
